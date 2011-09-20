@@ -1,0 +1,11 @@
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+*.class
+
+Apriori/nbproject/private/
+Apriori/build/
+Apriori/dist/
